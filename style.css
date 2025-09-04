@@ -152,7 +152,7 @@ ul.wp-list li:hover {
 /* Welcome Page Background */
 body.welcome {
   color: #ffffff;
-  background: url('antarctica.jpg') no-repeat center center fixed; /* Replace with Antarctic landscape image */
+  background: url('images/plaques_fractures.JPG') no-repeat center center fixed; /* Replace with Antarctic landscape image */
   background-size: cover;
 }
 
